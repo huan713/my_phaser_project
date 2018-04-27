@@ -1,3 +1,4 @@
+// 飞机大战
 var game = new Phaser.Game(240, 400, Phaser.CANVAS, 'game')
 
 // 创建游戏场景
